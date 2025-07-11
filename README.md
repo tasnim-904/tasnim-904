@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Tasnim Nakbi 👋  <br>🎓 Computer Systems Engineering Student | Embedded Systems & IoT<br><br>- 💻 I’m currently Junior Developer<br>- 🎨 UI/UX Designer<br>- 🌱 Currently learning: Advanced Backend, Android Studio, Embedded Systems & IoT<br>- 📱 Building offline-first apps and smarter UI systems <br>- 📚 Currently learning about Data visualization and data analytics<br>- 🛠️ Tech Stack:  `HTML` `CSS` `JavaScript` `React` `Node.js` `MongoDB` `Java` `SQLite` `Figma` `Git` `Python` `SQL` `Canva` `PowerPoint` <br>- 🧑‍🏫 Skilled in creating and delivering professional **presentations** using PowerPoint, Google Slides...more and visual storytelling tools<br>- 🧠 Problem Solving & Logic: Strong grasp of algorithms, object-oriented design, and system architecture<br>- 🔭 Looking for opportunities to contribute to real-world tech solutions, especially in smart systems or user-centric platforms<br>- 🌍 Open to: International remote internships | Open-source collaboration | Tech-for-impact projects<br>- 📫 Let’s connect and build something meaningful together!<br><br><br><br><br>[![Tasnim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasnim-904&show_icons=true&count_private=true&title_color=ff69b4&text_color=ffffff&icon_color=ffd700&bg_color=0d1117)](https://github.com/tasnim-904)<br>
+### Hi, I'm Tasnim Nakbi 👋  <br>🎓 Computer Systems Engineering Student | Embedded Systems & IoT<br><br>- 💻 I’m currently Junior Developer<br>- 🎨 UI/UX Designer<br>- 🌱 Currently learning: Advanced Backend, Android Studio, Embedded Systems & IoT<br>- 📱 Building offline-first apps and smarter UI systems <br>- 📚 Currently learning about Data visualization and data analytics<br>- 🧑‍🏫 Skilled in creating and delivering professional **presentations** using PowerPoint, Google Slides...more and visual storytelling tools<br>- 🧠 Problem Solving & Logic: Strong grasp of algorithms, object-oriented design, and system architecture<br>- 🔭 Looking for opportunities to contribute to real-world tech solutions, especially in smart systems or user-centric platforms<br>- 🌍 Open to: International remote internships | Open-source collaboration | Tech-for-impact projects<br>- 📫 Let’s connect and build something meaningful together!<br><br><br><br><br>
 
 
 # 💻 Tech Stack:
@@ -10,7 +10,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-904&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tasnim-904&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tasnim-904&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
