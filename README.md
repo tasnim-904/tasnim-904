@@ -7,7 +7,7 @@
 - 📱 Building offline-first apps and smarter UI systems 
 - 📚 Currently learning about Data visualization and data analytics
 - 🛠️ Tech Stack:  `HTML` `CSS` `JavaScript` `React` `Node.js` `MongoDB` `Java` `SQLite` `Figma` `Git` `Python` `SQL` `Canva` `PowerPoint` 
-- 🧑‍🏫 Skilled in creating and delivering professional **presentations** using PowerPoint, Google Slides & more and visual storytelling tools
+- 🧑‍🏫 Skilled in creating and delivering professional **presentations** using PowerPoint, Google Slides...more and visual storytelling tools
 - 🧠 Problem Solving & Logic: Strong grasp of algorithms, object-oriented design, and system architecture
 - 🔭 Looking for opportunities to contribute to real-world tech solutions, especially in smart systems or user-centric platforms
 - 🌍 Open to: International remote internships | Open-source collaboration | Tech-for-impact projects
